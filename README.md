@@ -2,7 +2,7 @@
 
 📖 English | [中文版](README_zh.md)
 
-ThemeManager plugin: creates and registers `ThemeProviding`, persisting the user's selected theme to the plugin data directory. Theme packs ([LumiPluginThemePack](https://github.com/CofficLab/LumiPluginThemePack)) only register themes here.
+ThemeManager plugin: creates and registers `ThemeProviding`, persisting the user's selected theme to the plugin data directory. Theme packs ([LumiPluginThemePack](https://github.com/lumi-softworks/LumiPluginThemePack)) only register themes here.
 
 ## Features
 
@@ -16,10 +16,10 @@ ThemeManager plugin: creates and registers `ThemeProviding`, persisting the user
 
 ## Dependencies
 
-- [LumiKernel](https://github.com/CofficLab/LumiKernel) — `KernelCore`
-- [LumiProviders](https://github.com/CofficLab/LumiProviders) — `ProviderStorage` / `ProviderTheme`
-- [LumiLogging](https://github.com/CofficLab/LumiLogging) — `LumiLoggingKit`
-- [LumiLocalization](https://github.com/CofficLab/LumiLocalization) — `LumiLocalizationKit`
+- [LumiKernel](https://github.com/lumi-softworks/LumiKernel) — `KernelCore`
+- [LumiProviders](https://github.com/lumi-softworks/LumiProviders) — `ProviderStorage` / `ProviderTheme`
+- [LumiLogging](https://github.com/lumi-softworks/LumiLogging) — `LumiLoggingKit`
+- [LumiLocalization](https://github.com/lumi-softworks/LumiLocalization) — `LumiLocalizationKit`
 
 ## Usage
 

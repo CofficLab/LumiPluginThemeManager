@@ -2,7 +2,7 @@
 
 📖 [中文版](README_zh.md) | [English](README.md)
 
-ThemeManager 插件：负责创建并注册 `ThemeProviding`，把用户选中的主题持久化到插件数据目录。主题包（[LumiPluginThemePack](https://github.com/CofficLab/LumiPluginThemePack)）只负责向这里注册主题。
+ThemeManager 插件：负责创建并注册 `ThemeProviding`，把用户选中的主题持久化到插件数据目录。主题包（[LumiPluginThemePack](https://github.com/lumi-softworks/LumiPluginThemePack)）只负责向这里注册主题。
 
 ## 功能
 
@@ -16,10 +16,10 @@ ThemeManager 插件：负责创建并注册 `ThemeProviding`，把用户选中�
 
 ## 依赖
 
-- [LumiKernel](https://github.com/CofficLab/LumiKernel) — `KernelCore`
-- [LumiProviders](https://github.com/CofficLab/LumiProviders) — `ProviderStorage` / `ProviderTheme`
-- [LumiLogging](https://github.com/CofficLab/LumiLogging) — `LumiLoggingKit`
-- [LumiLocalization](https://github.com/CofficLab/LumiLocalization) — `LumiLocalizationKit`
+- [LumiKernel](https://github.com/lumi-softworks/LumiKernel) — `KernelCore`
+- [LumiProviders](https://github.com/lumi-softworks/LumiProviders) — `ProviderStorage` / `ProviderTheme`
+- [LumiLogging](https://github.com/lumi-softworks/LumiLogging) — `LumiLoggingKit`
+- [LumiLocalization](https://github.com/lumi-softworks/LumiLocalization) — `LumiLocalizationKit`
 
 ## 使用
 
